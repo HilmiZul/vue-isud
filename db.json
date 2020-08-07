@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "nis": "11110044",
+      "nama": "Yuli"
+    },
+    {
+      "id": 2,
+      "nis": "11110045",
+      "nama": "Zul Hilmi"
+    }
+  ]
+}

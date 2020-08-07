@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <div class="container">
+      <div class="columns">
+        <div class="column">
+          <h1 class="title">Hay, I'm Zul</h1>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
