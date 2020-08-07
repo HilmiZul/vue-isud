@@ -1,4 +1,4 @@
-# student
+# vue-demo
 CRUD with Vue.js and JSON as databases stored on the local system.
 
 ## Project setup
