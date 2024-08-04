@@ -1,5 +1,5 @@
-# vue-demo
-CRUD with Vue.js and JSON as databases stored on the local system.
+# vue-isud
+ISUD with Vue.js and JSON as databases stored on the local system.
 
 ## Project setup
 ```
